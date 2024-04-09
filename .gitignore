@@ -1,2 +1,2 @@
 mysite/.env
-mysite/db.sqlite3
+db.sqlite3
